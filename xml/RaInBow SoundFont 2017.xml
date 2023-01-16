@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<ModuleData Name="レ淫棒サウンドフォント 2017" Folder="音MAD" Priority="220" FileCreator="虹. お天気雨" FileVersion="20171204 20200416" WebSite="https://nico.ms/sm36367282">
+<RhythmTrackDefault Gate="60" />
+<ExclusiveEventDefault Data="F0H 43H 10H 4CH F7H" />
+<ProgramChangeEventPropertyDlg AutoPreviewDelay="10" />
+<ControlChangeEventDefault ID="1300" />
+<InstrumentList>
+　<Map Name="--------淫夢---------" />
+	<Map Name="野獣" >
+		<PC Name="オォン！_P" PC="1" >
+			<Bank Name="オォン！_P" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="アォン！_P" PC="2" >
+			<Bank Name="アォン！_P" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ンアッー！_P" PC="3" >
+			<Bank Name="ンアッー！_P" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ンアッー！_S" PC="4" >
+			<Bank Name="ンアッー！_S" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ンアッー！_S2" PC="5" >
+			<Bank Name="ンアッー！_S2" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ファッ！？" PC="6" >
+			<Bank Name="ファッ！？" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ぬわああ_S" PC="7" >
+			<Bank Name="ぬわああ_S" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ヌッ！" PC="8" >
+			<Bank Name="ヌッ！" LSB="0" MSB="0" />
+		</PC>
+	</Map>
+	<Map Name="野獣" >
+		<PC Name="オォン！_P" PC="1" >
+			<Bank Name="オォン！_P" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="アォン！_P" PC="2" >
+			<Bank Name="アォン！_P" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ンアッー！_P" PC="3" >
+			<Bank Name="ンアッー！_P" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ンアッー！_S" PC="4" >
+			<Bank Name="ンアッー！_S" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ンアッー！_S2" PC="5" >
+			<Bank Name="ンアッー！_S2" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ファッ！？" PC="6" >
+			<Bank Name="ファッ！？" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ぬわああ_S" PC="7" >
+			<Bank Name="ぬわああ_S" LSB="0" MSB="0" />
+		</PC>
+		<PC Name="ヌッ！" PC="8" >
+			<Bank Name="ヌッ！" LSB="0" MSB="0" />
+		</PC>
+	</Map>
+	<Map Name="遠野" >
+		<PC Name="アン！" PC="1" >
+			<Bank Name="アン！" LSB="0" MSB="1" />
+		</PC>
+		<PC Name="アーン！" PC="2" >
+			<Bank Name="アーン！" LSB="0" MSB="1" />
+		</PC>
+		<PC Name="アーン！_S" PC="3" >
+			<Bank Name="アーン！_S" LSB="0" MSB="1" />
+		</PC>
+		<PC Name="アーン！_S2" PC="4" >
+			<Bank Name="アーン！_S2" LSB="0" MSB="1" />
+		</PC>
+		<PC Name="アーン！_S3" PC="5" >
+			<Bank Name="アーン！_S3" LSB="0" MSB="1" />
+		</PC>
+	</Map>
+	<Map Name="MUR" >
+		<PC Name="s「お」うだよ_B" PC="1" >
+			<Bank Name="s「お」うだよ_B" LSB="0" MSB="2" />
+		</PC>
+		<PC Name="s「お」うだよ_B2" PC="2" >
+			<Bank Name="s「お」うだよ_B2" LSB="0" MSB="2" />
+		</PC>
+		<PC Name="s「お」うだよ_S" PC="3" >
+			<Bank Name="s「お」うだよ_S" LSB="0" MSB="2" />
+		</PC>
+	</Map>
+	<Map Name="HTN" >
+		<PC Name="ウィ「ヒッ！」" PC="1" >
+			<Bank Name="ウィ「ヒッ！」" LSB="0" MSB="3" />
+		</PC>
+		<PC Name="ア゜ッー_S" PC="2" >
+			<Bank Name="ア゜ッー_S" LSB="0" MSB="3" />
+		</PC>
+	</Map>
+	<Map Name="AOK" >
+		<PC Name="あああ！_S" PC="1" >
+			<Bank Name="あああ！_S" LSB="0" MSB="4" />
+		</PC>
+	</Map>
+	<Map Name="ひで" >
+		<PC Name="あぅぅ！_S" PC="1" >
+			<Bank Name="あぅぅ！_S" LSB="0" MSB="5" />
+		</PC>
+	</Map>
+	<Map Name="TKGW" >
+		<PC Name="マ゜ッ！" PC="1" >
+			<Bank Name="マ゜ッ！" LSB="0" MSB="6" />
+		</PC>
+	</Map>
+	<Map Name="淫夢その他" >
+		<PC Name="COATロゴ" PC="1" >
+			<Bank Name="COATロゴ" LSB="0" MSB="31" />
+		</PC>
+		<PC Name="セミ兄貴" PC="2" >
+			<Bank Name="セミ兄貴" LSB="0" MSB="31" />
+		</PC>
+		<PC Name="ストラディバリ椅子_S" PC="3" >
+			<Bank Name="ストラディバリ椅子_S" LSB="0" MSB="31" />
+		</PC>
+		<PC Name="ホモビーム" PC="4" >
+			<Bank Name="ホモビーム" LSB="0" MSB="31" />
+		</PC>
+	</Map>
+　<Map Name="-------クッキー☆------" />
+	<Map Name="RU" >
+		<PC Name="ぷはー" PC="1" >
+			<Bank Name="ぷはー" LSB="0" MSB="32" />
+		</PC>
+		<PC Name="いい「天」気_P" PC="2" >
+			<Bank Name="いい「天」気_P" LSB="0" MSB="32" />
+		</PC>
+		<PC Name="「クォ」ラ！_P" PC="3" >
+			<Bank Name="「クォ」ラ！_P" LSB="0" MSB="32" />
+		</PC>
+	</Map>
+	<Map Name="UDK" >
+		<PC Name="「バン」ホーテン_P" PC="1" >
+			<Bank Name="「バン」ホーテン_P" LSB="0" MSB="33" />
+		</PC>
+		<PC Name="バン「ホー」テン_S" PC="2" >
+			<Bank Name="バン「ホー」テン_S" LSB="0" MSB="33" />
+		</PC>
+		<PC Name="あああ！_S" PC="3" >
+			<Bank Name="あああ！_S" LSB="0" MSB="33" />
+		</PC>
+		<PC Name="あああ！_S2" PC="4" >
+			<Bank Name="あああ！_S2" LSB="0" MSB="33" />
+		</PC>
+		<PC Name="あああ！_S3" PC="5" >
+			<Bank Name="あああ！_S3" LSB="0" MSB="33" />
+		</PC>
+		<PC Name="あああ！_S4" PC="6" >
+			<Bank Name="あああ！_S4" LSB="0" MSB="33" />
+		</PC>
+		<PC Name="あああ！_S5" PC="7" >
+			<Bank Name="あああ！_S5" LSB="0" MSB="33" />
+		</PC>
+		<PC Name="忘れてた「ー！」_S" PC="8" >
+			<Bank Name="忘れてた「ー！」_S" LSB="0" MSB="33" />
+		</PC>
+	</Map>
+	<Map Name="HNS" >
+		<PC Name="きゃっ！" PC="1" >
+			<Bank Name="きゃっ！" LSB="0" MSB="34" />
+		</PC>
+		<PC Name="もういっ「かー」い_S" PC="2" >
+			<Bank Name="もういっ「かー」い_S" LSB="0" MSB="34" />
+		</PC>
+		<PC Name="もういっか「－」い_S" PC="3" >
+			<Bank Name="もういっか「－」い_S" LSB="0" MSB="34" />
+		</PC>
+		<PC Name="あっ！…_P" PC="4" >
+			<Bank Name="あっ！…_P" LSB="0" MSB="34" />
+		</PC>
+	</Map>
+	<Map Name="YMN" >
+		<PC Name="あっ…「まい！」" PC="1" >
+			<Bank Name="あっ…「まい！」" LSB="0" MSB="35" />
+		</PC>
+		<PC Name="食べさせる「ー」_S" PC="2" >
+			<Bank Name="食べさせる「ー」_S" LSB="0" MSB="35" />
+		</PC>
+		<PC Name="食べさせる「ー」_S2" PC="3" >
+			<Bank Name="食べさせる「ー」_S2" LSB="0" MSB="35" />
+		</PC>
+		<PC Name="食べさせる「ー」_S3" PC="4" >
+			<Bank Name="食べさせる「ー」_S3" LSB="0" MSB="35" />
+		</PC>
+		<PC Name="食べさせる「－」_B" PC="5" >
+			<Bank Name="食べさせる「－」_B" LSB="0" MSB="35" />
+		</PC>
+		<PC Name="「完」成" PC="6" >
+			<Bank Name="「完」成" LSB="0" MSB="35" />
+		</PC>
+		<PC Name="扱っ「て！」" PC="7" >
+			<Bank Name="扱っ「て！」" LSB="0" MSB="35" />
+		</PC>
+	</Map>
+	<Map Name="NDK" >
+		<PC Name="「そー」なのかー_S" PC="1" >
+			<Bank Name="「そー」なのかー_S" LSB="0" MSB="36" />
+		</PC>
+		<PC Name="そ「ー」なのかー_B" PC="2" >
+			<Bank Name="そ「ー」なのかー_B" LSB="0" MSB="36" />
+		</PC>
+	</Map>
+	<Map Name="YZY" >
+		<PC Name="えい！_P" PC="1" >
+			<Bank Name="えい！_P" LSB="0" MSB="37" />
+		</PC>
+		<PC Name="わっ！？" PC="2" >
+			<Bank Name="わっ！？" LSB="0" MSB="37" />
+		</PC>
+	</Map>
+	<Map Name="YKMR(原発姉貴)" >
+		<PC Name="おは「よ」う_S" PC="1" >
+			<Bank Name="おは「よ」う_S" LSB="0" MSB="38" />
+		</PC>
+	</Map>
+　<Map Name="------クッキー☆☆-----" />
+	<Map Name="BNKRG" >
+		<PC Name="「だ」って" PC="1" >
+			<Bank Name="「だ」って" LSB="0" MSB="40" />
+		</PC>
+		<PC Name="んーっ「と」_S" PC="2" >
+			<Bank Name="んーっ「と」_S" LSB="0" MSB="40" />
+		</PC>
+	</Map>
+	<Map Name="MZ" >
+		<PC Name="「ちょ」っとまった！_P" PC="1" >
+			<Bank Name="「ちょ」っとまった！_P" LSB="0" MSB="41" />
+		</PC>
+		<PC Name="いら「ねー」_S" PC="2" >
+			<Bank Name="いら「ねー」_S" LSB="0" MSB="41" />
+		</PC>
+	</Map>
+	<Map Name="海綿体" >
+		<PC Name="クリス「マ」ス_S" PC="1" >
+			<Bank Name="クリス「マ」ス_S" LSB="0" MSB="47" />
+		</PC>
+		<PC Name="クリスm「ア」ス_B" PC="2" >
+			<Bank Name="クリスm「ア」ス_B" LSB="0" MSB="47" />
+		</PC>
+	</Map>
+	<Map Name="KNN" >
+		<PC Name="「あ＾～」生き返るわ～_S" PC="1" >
+			<Bank Name="「あ＾～」生き返るわ～_S" LSB="0" MSB="48" />
+		</PC>
+		<PC Name="「あ＾～」生き返るわ～_S2" PC="2" >
+			<Bank Name="「あ＾～」生き返るわ～_S2" LSB="0" MSB="48" />
+		</PC>
+	</Map>
+	<Map Name="AZS" >
+		<PC Name="あー_S" PC="1" >
+			<Bank Name="あー_S" LSB="0" MSB="49" />
+		</PC>
+		<PC Name="「そー」だなー_B" PC="2" >
+			<Bank Name="「そー」だなー_B" LSB="0" MSB="49" />
+		</PC>
+	</Map>
+	<Map Name="RI" >
+		<PC Name="ひつじ" PC="1" >
+			<Bank Name="ひつじ" LSB="0" MSB="56" />
+		</PC>
+	</Map>
+　<Map Name="---------鍋☆--------" />
+	<Map Name="JOKER" >
+		<PC Name="「あ」とは_S" PC="1" >
+			<Bank Name="「あ」とは_S" LSB="0" MSB="64" />
+		</PC>
+	</Map>
+　<Map Name="-------クッソー☆------" />
+	<Map Name="NYN" >
+		<PC Name="いらっしゃいま「せー」_S" PC="1" >
+			<Bank Name="いらっしゃいま「せー」_S" LSB="0" MSB="72" />
+		</PC>
+		<PC Name="「な」いです_S" PC="2" >
+			<Bank Name="「な」いです_S" LSB="0" MSB="72" />
+		</PC>
+		<PC Name="バレン「タイン」_P" PC="3" >
+			<Bank Name="バレン「タイン」_P" LSB="0" MSB="72" />
+		</PC>
+		<PC Name="まいどあり「－」_B" PC="4" >
+			<Bank Name="まいどあり「－」_B" LSB="0" MSB="72" />
+		</PC>
+		<PC Name="NYN_P" PC="5" >
+			<Bank Name="NYN_P" LSB="0" MSB="72" />
+		</PC>
+	</Map>
+	<Map Name="ICG" >
+		<PC Name="えっと「ー」_S" PC="1" >
+			<Bank Name="えっと「ー」_S" LSB="0" MSB="73" />
+		</PC>
+		<PC Name="えっ「とー」_S" PC="2" >
+			<Bank Name="えっ「とー」_S" LSB="0" MSB="73" />
+		</PC>
+	</Map>
+	<Map Name="RRM" >
+		<PC Name="バレン「タイン」_P" PC="1" >
+			<Bank Name="バレン「タイン」_P" LSB="0" MSB="74" />
+		</PC>
+		<PC Name="「こ」んなもの！_S" PC="2" >
+			<Bank Name="「こ」んなもの！_S" LSB="0" MSB="74" />
+		</PC>
+		<PC Name="こん「な」もの！_S" PC="3" >
+			<Bank Name="こん「な」もの！_S" LSB="0" MSB="74" />
+		</PC>
+		<PC Name="うぅ…_P" PC="4" >
+			<Bank Name="うぅ…_P" LSB="0" MSB="74" />
+		</PC>
+	</Map>
+	<Map Name="SZ" >
+		<PC Name="フ「フ」フフ" PC="1" >
+			<Bank Name="フ「フ」フフ" LSB="0" MSB="75" />
+		</PC>
+		<PC Name="フフ「フ」フ" PC="2" >
+			<Bank Name="フフ「フ」フ" LSB="0" MSB="75" />
+		</PC>
+		<PC Name="フフフ「フ」" PC="3" >
+			<Bank Name="フフフ「フ」" LSB="0" MSB="75" />
+		</PC>
+	</Map>
+	<Map Name="SRMY" >
+		<PC Name="おー_S" PC="1" >
+			<Bank Name="おー_S" LSB="0" MSB="88" />
+		</PC>
+	</Map>
+　<Map Name="-------クラピー☆------" />
+	<Map Name="CL(Cり)" >
+		<PC Name="じぇんとる「め！」" PC="1" >
+			<Bank Name="じぇんとる「め！」" LSB="0" MSB="96" />
+		</PC>
+	</Map>
+	<Map Name="NBR(ナビラ)" >
+		<PC Name="し「まー」す_S" PC="1" >
+			<Bank Name="し「まー」す_S" LSB="0" MSB="97" />
+		</PC>
+	</Map>
+	<Map Name="MIMI(銘々)" >
+		<PC Name="「そ」こで" PC="1" >
+			<Bank Name="「そ」こで" LSB="0" MSB="98" />
+		</PC>
+		<PC Name="そ「こ」で" PC="2" >
+			<Bank Name="そ「こ」で" LSB="0" MSB="98" />
+		</PC>
+		<PC Name="そこ「で」" PC="3" >
+			<Bank Name="そこ「で」" LSB="0" MSB="98" />
+		</PC>
+		<PC Name="ぬえ「ちゃん」" PC="4" >
+			<Bank Name="ぬえ「ちゃん」" LSB="0" MSB="98" />
+		</PC>
+	</Map>
+　<Map Name="------イースター☆-----" />
+	<Map Name="Web" >
+		<PC Name="But_P" PC="1" >
+			<Bank Name="But_P" LSB="0" MSB="104" />
+		</PC>
+		<PC Name="One" PC="2" >
+			<Bank Name="One" LSB="0" MSB="104" />
+		</PC>
+	</Map>
+	<Map Name="Kofji" >
+		<PC Name="Hmm_S" PC="1" >
+			<Bank Name="Hmm_S" LSB="0" MSB="105" />
+		</PC>
+		<PC Name="Hmm_B" PC="2" >
+			<Bank Name="Hmm_B" LSB="0" MSB="105" />
+		</PC>
+		<PC Name="Sure_P" PC="3" >
+			<Bank Name="Sure_P" LSB="0" MSB="105" />
+		</PC>
+	</Map>
+　<Map Name="-------スペカ☆-------" />
+	<Map Name="KN(きぬ)" >
+		<PC Name="「こ」↑こ↓" PC="1" >
+			<Bank Name="「こ」↑こ↓" LSB="0" MSB="113" />
+		</PC>
+		<PC Name="ぽい" PC="2" >
+			<Bank Name="ぽい" LSB="0" MSB="113" />
+		</PC>
+	</Map>
+	<Map Name="BBAN(びびあん)" >
+		<PC Name="「あ＾～」生き返るわ～_S" PC="1" >
+			<Bank Name="「あ＾～」生き返るわ～_S" LSB="0" MSB="114" />
+		</PC>
+	</Map>
+	<Map Name="偽NYN(青目ルミコ)" >
+		<PC Name="いらっしゃいま「せー」_S" PC="1" >
+			<Bank Name="いらっしゃいま「せー」_S" LSB="0" MSB="115" />
+		</PC>
+	</Map>
+　<Map Name="-------レスリング------" />
+	<Map Name="レスリング" >
+		<PC Name="アッー！" PC="1" >
+			<Bank Name="アッー！" LSB="0" MSB="126" />
+		</PC>
+		<PC Name="ファ楽器" PC="2" >
+			<Bank Name="ファ楽器" LSB="0" MSB="126" />
+		</PC>
+		<PC Name="サンダー" PC="3" >
+			<Bank Name="サンダー" LSB="0" MSB="126" />
+		</PC>
+	</Map>
+</InstrumentList>
+<DrumSetList>
+		<Map Name="">
+			<PC Name="打楽器総合" PC="1">
+				<Bank Name="打楽器総合" LSB="0" MSB="0">
+					<Tone Name="クッキー☆BGMキック" Key="0" />
+					<Tone Name="クッキー☆BGMガバキック" Key="1" />
+					<Tone Name="ICGキック" Key="2" />
+					<Tone Name="チャカポコキック" Key="3" />
+					<Tone Name="バァン！(スネア)" Key="12" />
+					<Tone Name="大地のスネア" Key="13" />
+					<Tone Name="クッキー☆☆効果音18分15秒スネア" Key="14" />
+					<Tone Name="イースター☆効果音7分59秒スネア" Key="15" />
+					<Tone Name="レスリングケツスネア" Key="16" />
+					<Tone Name="虐待ハイハット(クローズ)" Key="24" />
+					<Tone Name="虐待ハイハット(ペダル)" Key="25" />
+					<Tone Name="虐待ハイハット(オープン)" Key="26" />
+					<Tone Name="レスリングケツハイハット(クローズ)" Key="27" />
+					<Tone Name="レスリングケツハイハット(ペダル)" Key="28" />
+					<Tone Name="レスリングケツハイハット(オープン)" Key="29" />
+					<Tone Name="ICGハイハット(クローズ)" Key="30" />
+					<Tone Name="ICGハイハット(ペダル)" Key="31" />
+					<Tone Name="ICGハイハット(オープン)" Key="32" />
+					<Tone Name="ICGタム" Key="36" />
+					<Tone Name="ICGタム" Key="37" />
+					<Tone Name="ICGタム" Key="38" />
+					<Tone Name="ICGタム" Key="39" />
+					<Tone Name="クラピー☆効果音8分8秒タム" Key="40" />
+					<Tone Name="クラピー☆効果音8分8秒タム" Key="41" />
+					<Tone Name="クラピー☆効果音8分8秒タム" Key="42" />
+					<Tone Name="クラピー☆効果音8分8秒タム" Key="43" />
+					<Tone Name="レスリングケツタム" Key="44" />
+					<Tone Name="レスリングケツタム" Key="45" />
+					<Tone Name="レスリングケツタム" Key="46" />
+					<Tone Name="レスリングケツタム" Key="47" />
+					<Tone Name="淫夢一章発砲音" Key="48" />
+					<Tone Name="淫夢一章発砲音" Key="49" />
+					<Tone Name="虐待スプラッシュシンバル" Key="50" />
+					<Tone Name="クッキー☆☆2期効果音11分45秒シンバル" Key="51" />
+					<Tone Name="クッキー☆☆2期効果音11分45秒シンバル" Key="52" />
+					<Tone Name="ICGシンバル1" Key="53" />
+					<Tone Name="ICGシンバル1" Key="54" />
+					<Tone Name="ICGシンバル2" Key="55" />
+					<Tone Name="クッソー☆☆☆こんなもの破壊音" Key="56" />
+					<Tone Name="クッソー☆☆☆☆☆こんなもの破壊音" Key="57" />
+					<Tone Name="レスリングロッカーシンバル" Key="58" />
+					<Tone Name="レスリングロッカーシンバル" Key="59" />
+					<Tone Name="バァン！(大破)" Key="60" />
+					<Tone Name="TONK_「き」たねえ" Key="61" />
+					<Tone Name="TNOK_き「た」ねえ" Key="62" />
+					<Tone Name="コッキング1(淫夢一章)" Key="63" />
+					<Tone Name="コッキング2(淫夢一章)" Key="64" />
+					<Tone Name="ドア1(淫夢四章)" Key="65" />
+					<Tone Name="ドア2(淫夢四章)" Key="66" />
+					<Tone Name="コップ1(淫夢四章)" Key="67" />
+					<Tone Name="コップ2(淫夢四章)" Key="68" />
+					<Tone Name="ケツドラム(空手部)" Key="69" />
+					<Tone Name="ブッ(野獣)" Key="70" />
+					<Tone Name="チッ(野獣)" Key="71" />
+					<Tone Name="パ！(野獣)" Key="72" />
+					<Tone Name="謎の金属音(サイクロップス先輩)" Key="73" />
+					<Tone Name="バァン！(KBTIT)" Key="74" />
+					<Tone Name="脱糞(KMR)" Key="75" />
+					<Tone Name="脱糞1(マジメ君)" Key="76" />
+					<Tone Name="脱糞2(マジメ君)" Key="77" />
+					<Tone Name="脱糞3(マジメ君)" Key="78" />
+					<Tone Name="剛竜馬_ヘァァァ！" Key="79" />
+					<Tone Name="剛竜馬_タァァァ！" Key="80" />
+					<Tone Name="竹刀(剛竜馬)" Key="81" />
+					<Tone Name="ゆうさく_「ち」くび" Key="82" />
+					<Tone Name="ゆうさく_ち「く」び" Key="83" />
+					<Tone Name="拍手1(料理人解体ショー)" Key="84" />
+					<Tone Name="拍手2(料理人解体ショー)" Key="85" />
+					<Tone Name="大地のドラム" Key="86" />
+					<Tone Name="RU_え！" Key="87" />
+					<Tone Name="RU_わっ" Key="88" />
+					<Tone Name="RU_ちょっ" Key="89" />
+					<Tone Name="RU_ハグ" Key="90" />
+					<Tone Name="クッキー☆効果音4分52秒" Key="91" />
+					<Tone Name="クッキー☆効果音5分29秒" Key="92" />
+					<Tone Name="クッキー☆効果音5分30秒" Key="93" />
+					<Tone Name="クッキー☆効果音5分36秒" Key="94" />
+					<Tone Name="クッキー☆効果音6分24秒" Key="95" />
+					<Tone Name="クッキー☆効果音6分25秒" Key="96" />
+					<Tone Name="クッキー☆効果音21分20秒" Key="97" />
+					<Tone Name="クッキー☆効果音24分41秒" Key="98" />
+					<Tone Name="クッキー☆EDリバースシンバル" Key="99" />
+					<Tone Name="ICG_「バ」レンタイン" Key="100" />
+					<Tone Name="ICGドラム" Key="101" />
+					<Tone Name="クラピー☆効果音8分9秒" Key="102" />
+					<Tone Name="イースター☆効果音2分29秒" Key="103" />
+					<Tone Name="イースター☆効果音5分2秒" Key="104" />
+					<Tone Name="イースター☆効果音5分3秒" Key="105" />
+					<Tone Name="イースター☆効果音5分4秒" Key="106" />
+					<Tone Name="イースター☆効果音7分33秒" Key="107" />
+					<Tone Name="チュパラッチ1(野獣)" Key="108" />
+					<Tone Name="チュパラッチ2(野獣)" Key="109" />
+					<Tone Name="RU_「き」た" Key="110" />
+					<Tone Name="RU_き「た」" Key="111" />
+					<Tone Name="ICG_呼吸音" Key="112" />
+					<Tone Name="クッキー☆☆効果音18分15秒" Key="113" />
+					<Tone Name="クッソー☆場面転換音" Key="114" />
+					<Tone Name="YZY&YKMR_おー！" Key="115" />
+					<Tone Name="KNN_呼吸音" Key="116" />
+					<Tone Name="KNN_呼吸音_2" Key="117" />
+					<Tone Name="クッソー☆効果音1分32秒" Key="118" />
+					<Tone Name="クラピー☆効果音7分54秒" Key="119" />
+					<Tone Name="スペカ☆効果音ポンッ" Key="120" />
+					<Tone Name="BBAN_呼吸音" Key="121" />
+					<Tone Name="BBAN_呼吸音_2" Key="122" />
+					<Tone Name="スペカ☆効果音8分52秒" Key="123" />
+					<Tone Name="RU_呼吸音" Key="124" />
+				</Bank>
+			</PC>
+			<PC Name="GM_淫夢ドラム" PC="2">
+				<Bank Name="GM_淫夢ドラム" LSB="0" MSB="0">
+					<Tone Name="チャカポコキック" Key="36" />
+					<Tone Name="コップ(淫夢四章)" Key="37" />
+					<Tone Name="バァン！(スネア)" Key="38" />
+					<Tone Name="ハンドクラップ" Key="39" />
+					<Tone Name="大地のスネア" Key="40" />
+					<Tone Name="GTさんケツタム" Key="41" />
+					<Tone Name="虐待ハイハット(クローズ)" Key="42" />
+					<Tone Name="GTさんケツタム" Key="43" />
+					<Tone Name="虐待ハイハット(ペダル)" Key="44" />
+					<Tone Name="GTさんケツタム" Key="45" />
+					<Tone Name="虐待ハイハット(オープン)" Key="46" />
+					<Tone Name="GTさんケツタム" Key="47" />
+					<Tone Name="GTさんケツタム" Key="48" />
+					<Tone Name="淫夢一章発砲音" Key="49" />
+					<Tone Name="GTさんケツタム" Key="50" />
+					<Tone Name="虐待スプラッシュシンバル" Key="55" />
+					<Tone Name="謎の金属音(サイクロップス先輩)" Key="56" />
+					<Tone Name="淫夢一章発砲音" Key="57" />
+				</Bank>
+			</PC>
+			<PC Name="GM_クッキー☆ドラム" PC="33">
+				<Bank Name="GM_クッキー☆ドラム" LSB="0" MSB="0">
+					<Tone Name="ICGキック" Key="35" />
+					<Tone Name="クッキー☆BGMキック" Key="36" />
+					<Tone Name="クッキー☆☆効果音18分15秒スネア" Key="38" />
+					<Tone Name="イースター☆効果音7分59秒スネア" Key="40" />
+					<Tone Name="クラピー☆効果音8分8秒タム" Key="41" />
+					<Tone Name="ICGハイハット(クローズ)" Key="42" />
+					<Tone Name="クラピー☆効果音8分8秒タム" Key="43" />
+					<Tone Name="ICGハイハット(ペダル)" Key="44" />
+					<Tone Name="クラピー☆効果音8分8秒タム" Key="45" />
+					<Tone Name="ICGハイハット(オープン)" Key="46" />
+					<Tone Name="クラピー☆効果音8分8秒タム" Key="47" />
+					<Tone Name="クラピー☆効果音8分8秒タム" Key="48" />
+					<Tone Name="クッキー☆☆2期効果音11分45秒シンバル" Key="49" />
+					<Tone Name="クラピー☆効果音8分8秒タム" Key="50" />
+					<Tone Name="ICGチャイナシンバル" Key="52" />
+					<Tone Name="ICGスプラッシュシンバル" Key="55" />
+					<Tone Name="クッキー☆☆2期効果音11分45秒シンバル" Key="57" />
+					<Tone Name="クッキー☆効果音5分30秒トライアングル(ミュート)" Key="80" />
+					<Tone Name="クッキー☆効果音5分30秒トライアングル(オープン)" Key="81" />
+					<Tone Name="クッソー☆場面転換音" Key="84" />
+				</Bank>
+			</PC>
+			<PC Name="GM_ICGドラム" PC="74">
+				<Bank Name="GM_ICGドラム" LSB="0" MSB="0">
+					<Tone Name="キック2" Key="35" />
+					<Tone Name="キック1" Key="36" />
+					<Tone Name="スネア1" Key="38" />
+					<Tone Name="スネア2" Key="40" />
+					<Tone Name="タム" Key="41" />
+					<Tone Name="クローズハイハット" Key="42" />
+					<Tone Name="タム" Key="43" />
+					<Tone Name="ペダルハイハット" Key="44" />
+					<Tone Name="タム" Key="45" />
+					<Tone Name="オープンハイハット" Key="46" />
+					<Tone Name="タム" Key="47" />
+					<Tone Name="タム" Key="48" />
+					<Tone Name="クラッシュシンバル" Key="49" />
+					<Tone Name="タム" Key="50" />
+					<Tone Name="チャイナシンバル" Key="52" />
+					<Tone Name="スプラッシュシンバル" Key="55" />
+					<Tone Name="クラッシュシンバル" Key="57" />
+				</Bank>
+			</PC>
+		</Map>
+</DrumSetList>
+	<ControlChangeMacroList>
+		<CCM ID="1300" Name="空のコントロールチェンジマクロ" />
+		<Folder Name="Performance">
+			<Memo>演奏に関するメッセージです。</Memo>
+			<CCM ID="130" Name="Pitch Bend" Color="#801010" Sync="Last">
+				<Value Min="-8192" Max="8191" Offset="8192" />
+				<Memo>音程を変えます。Pitch Bend Sensitivityで変化量を指定します。</Memo>
+				<Data>@PB #VH #VL</Data>
+			</CCM>
+			<CCM ID="1" Name="Modulation" Color="#1010b0" Sync="Last">
+				<Value />
+				<Memo>音程を揺らします。</Memo>
+				<Data>@CC 1 #VL</Data>
+			</CCM>
+			<CCM ID="11" Name="Expression" Color="#e01010" Sync="Last">
+				<Value Default="127" />
+				<Memo>音量を変えます。表現としての細かい音量変化に使います。\nパート間のバランスをとるときにはVolumeを使いましょう。</Memo>
+				<Data>@CC 11 #VL</Data>
+			</CCM>
+			<CCM ID="64" Name="Sustain Pedal" Color="#006080">
+				<Value TableID="0" />
+				<Memo>ONにしている間、音が鳴り続けます。</Memo>
+				<Data>@CC 64 #VL</Data>
+			</CCM>
+			<CCM ID="67" Name="Soft Pedal" Color="#006080">
+				<Value TableID="0" />
+				<Memo>音を柔らかくします。BASSMIDIを使ったサウンドフォントプレイヤーではフィルターのカットオフ周波数が少し下がりますが、効果が分かりづらいです。</Memo>
+				<Data>@CC 67 #VL</Data>
+			</CCM>
+		</Folder>
+		<Folder Name="Part Parameter">
+			<Memo>パートの設定をします。</Memo>
+			<CCM ID="7" Name="Volume" Color="#1030c0" Sync="Last">
+				<Value Default="100" />
+				<Memo>音量を調節します。パート間のバランスをとるときに使います。\n表現としての細かい音量変化にはExpressionを使いましょう。</Memo>
+				<Data>@CC 7 #VL</Data>
+			</CCM>
+			<CCM ID="10" Name="Panpot" Color="#cc0099" Sync="Last">
+				<Value Min="-64" Max="63" Offset="64" />
+				<Memo>パンを調節します。-で左側に、+で右側になります。</Memo>
+				<Data>@CC 10 #VL</Data>
+			</CCM>
+			<CCM ID="91" Name="Reverb" Color="#20b020">
+				<Value Default="40" />
+				<Memo>リバーブ(残響)のかかり具合を調節します。</Memo>
+				<Data>@CC 91 #VL</Data>
+			</CCM>
+			<CCM ID="93" Name="Chorus" Color="#1070e0">
+				<Value />
+				<Memo>コーラスのかかり具合を調節します。\nコーラスは元の音とビブラートをかけた音を重ねることで、音を広げるエフェクトです。</Memo>
+				<Data>@CC 93 #VL</Data>
+			</CCM>
+			<CCM ID="74" Name="Cutoff" Color="#1050c0" Sync="Last">
+				<Value Min="-64" Max="63" Offset="64" />
+				<Memo>フィルターのカットオフ周波数を変えます。\nプラス方向にすると音が明るく、マイナス方向で暗くなります。</Memo>
+				<Data>@CC 74 #VL</Data>
+			</CCM>
+			<CCM ID="71" Name="Resonance" Color="#1050c0" Sync="Last">
+				<Value Min="-64" Max="63" Offset="64" />
+				<Memo>カットオフ周波数付近を強調する度合いを調節します。\nプラス方向にするとクセのある音になります。</Memo>
+				<Data>@CC 71 #VL</Data>
+			</CCM>
+			<CCM ID="73" Name="Attack Time" Color="#101050">
+				<Value Min="-64" Max="63" Offset="64" />
+				<Memo>音が立ち上がるまでの時間を調節します。</Memo>
+				<Data>@CC 73 #VL</Data>
+			</CCM>
+			<CCM ID="75" Name="Decay Time" Color="#101050">
+				<Value Min="-64" Max="63" Offset="64" />
+				<Memo>音が減衰する速さを調節します。\n一部の音色では無効です。</Memo>
+				<Data>@CC 75 #VL</Data>
+			</CCM>
+			<CCM ID="72" Name="Release Time" Color="#101050">
+				<Value Min="-64" Max="63" Offset="64" />
+				<Memo>音の余韻(鳴り終わるまでの時間)を調節します。</Memo>
+				<Data>@CC 72 #VL</Data>
+			</CCM>
+			<CCM ID="65" Name="Portamento Switch" Color="#407000">
+				<Value TableID="0" />
+				<Memo>音程をなめらかにつなげます。Portamento Timeでつなげる時間を調節します。\nモノモードでポルタメントをONにするとレガートになります。</Memo>
+				<Data>@CC 65 #VL</Data>
+			</CCM>
+			<CCM ID="5" Name="Portamento Time" Color="#407000">
+				<Value />
+				<Memo>ポルタメントで音程をなめらかにつなげるときにかかる時間を調節します。</Memo>
+				<Data>@CC 5 #VL</Data>
+			</CCM>
+			<CCM ID="84" Name="Portamento Control" Color="#407000">
+				<Value Default="60" Type="Key" />
+				<Memo>このメッセージの直後の音のポルタメントがどの音程から始まるかをキーナンバーで指定します。</Memo>
+				<Data>@CC 84 #VL</Data>
+			</CCM>
+			<CCM ID="128" Name="Mono/Poly Mode" Color="#101050">
+				<Value Default="127" Min="126" Max="127">
+					<Entry Label="Mono" Value="126" />
+					<Entry Label="Poly" Value="127" />
+				</Value>
+				<Memo>鳴らせる音の数を選びます。ポリモードでは複数の音を鳴らせますがモノモードでは一音しか鳴らせません。\nポルタメントがONの状態でモノモードにするとレガートになります。</Memo>
+				<Data>@CC #VL 00H</Data>
+			</CCM>
+			<CCM ID="140" Name="Pitch Bend Sensitivity" Color="#801010">
+				<Value Default="2" Name="semitone" />
+				<Memo>ピッチベンドの変化量を半音単位で指定します。</Memo>
+				<Data>@RPN 00H 00H #VL #NONE</Data>
+			</CCM>
+			<CCM ID="142" Name="Coarse Tuning" Color="#005020">
+				<Value Min="-64" Max="63" Offset="64" Name="semitone" />
+				<Memo>音程を半音単位で変えます。</Memo>
+				<Data>@RPN 00H 02H #VL #NONE</Data>
+			</CCM>
+			<CCM ID="141" Name="Fine Tuning" Color="#005020">
+				<Value Min="-64" Max="63" Offset="64" Name="±100 cent" />
+				<Memo>音程を微調節します。-64で半音さがり、+63で半音上がります。</Memo>
+				<Data>@RPN 00H 01H #VL #NONE</Data>
+			</CCM>
+			<CCM ID="160" Name="Scale Tuning" Color="#005020">
+				<Value Min="-64" Max="63" Offset="64" Name="cent" />
+				<Gate Max="11" Offset="65" Name="key">
+					<Entry Label="C" Value="0" />
+					<Entry Label="C#" Value="1" />
+					<Entry Label="D" Value="2" />
+					<Entry Label="D#" Value="3" />
+					<Entry Label="E" Value="4" />
+					<Entry Label="F" Value="5" />
+					<Entry Label="F#" Value="6" />
+					<Entry Label="G" Value="7" />
+					<Entry Label="G#" Value="8" />
+					<Entry Label="A" Value="9" />
+					<Entry Label="A#" Value="10" />
+					<Entry Label="B" Value="11" />
+				</Gate>
+				<Memo>音階を変えます。Gateで変えるキーを選んでValueは1セント単位で変えます。テンプレートに純正律とアラビア風音階があります。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 08H #CH #GL #VL F7H</Data>
+			</CCM>
+			<Folder Name="Drum Parameter">
+				<Memo>リズムパートで楽器ごとの設定をします。Gateで調節したい楽器のキーナンバーを指定します。\n\n音色の選択(プログラムチェンジ)で初期化されてしまうので、「MIDI機器の状態を合わせる」機能を使っているときは[MIDI機器の状態を合わせる]機能のトラック個別設定で2小節以降にするなどして、プログラムチェンジが自動的に送信されないように設定してください。</Memo>
+				<CCM ID="150" Name="Drum Volume" Color="#101050">
+					<Value Default="127" />
+					<Gate Default="60" Type="Key" />
+					<Memo>音量を調節します。パートに対する割合(127で100%)です。Gateで調節したい楽器のキーナンバーを指定します。\n音色の選択(プログラムチェンジ)で初期化されてしまうので、「MIDI機器の状態を合わせる」機能を使っているときは[MIDI機器の状態を合わせる]機能のトラック個別設定で2小節以降にするなどして、プログラムチェンジが自動的に送信されないように設定してください。</Memo>
+					<Data>@NRPN 1AH #GL #VL #NONE</Data>
+				</CCM>
+				<CCM ID="151" Name="Drum Panpot" Color="#101050">
+					<Value Min="-64" Max="63" Offset="64" />
+					<Gate Default="60" Type="Key" />
+					<Memo>パンを調節します。-で左側に、+で右側になります。Gateで調節したい楽器のキーナンバーを指定します。\n音色の選択(プログラムチェンジ)で初期化されてしまうので、「MIDI機器の状態を合わせる」機能を使っているときは[MIDI機器の状態を合わせる]機能のトラック個別設定で2小節以降にするなどして、プログラムチェンジが自動的に送信されないように設定してください。</Memo>
+					<Data>@NRPN 1CH #GL #VL #NONE</Data>
+				</CCM>
+				<CCM ID="152" Name="Drum Reverb" Color="#101050">
+					<Value Default="127" />
+					<Gate Default="60" Type="Key" />
+					<Memo>リバーブ(残響)のかかり具合を調節します。パートに対する割合(127で100%)です。Gateで調節したい楽器のキーナンバーを指定します。\n音色の選択(プログラムチェンジ)で初期化されてしまうので、「MIDI機器の状態を合わせる」機能を使っているときは[MIDI機器の状態を合わせる]機能のトラック個別設定で2小節以降にするなどして、プログラムチェンジが自動的に送信されないように設定してください。</Memo>
+					<Data>@NRPN 1DH #GL #VL #NONE</Data>
+				</CCM>
+				<CCM ID="153" Name="Drum Chorus" Color="#101050">
+					<Value Default="127" />
+					<Gate Default="60" Type="Key" />
+					<Memo>コーラスのかかり具合を調節します。コーラスは元の音とビブラートをかけた音を一緒に鳴らすことで、音を広げるエフェクトです。パートに対する割合(127で100%)です。Gateで調節したい楽器のキーナンバーを指定します。\n音色の選択(プログラムチェンジ)で初期化されてしまうので、「MIDI機器の状態を合わせる」機能を使っているときは[MIDI機器の状態を合わせる]機能のトラック個別設定で2小節以降にするなどして、プログラムチェンジが自動的に送信されないように設定してください。</Memo>
+					<Data>@NRPN 1EH #GL #VL #NONE</Data>
+				</CCM>
+				<CCM ID="154" Name="Drum Cutoff" Color="#101050">
+					<Value Min="-64" Max="63" Offset="64" />
+					<Gate Default="60" Type="Key" />
+					<Memo>フィルターのカットオフ周波数を変えます。Gateで調節したい楽器のキーナンバーを指定します。\n\n音色の選択(プログラムチェンジ)で初期化されてしまうので、「MIDI機器の状態を合わせる」機能を使っているときは[MIDI機器の状態を合わせる]機能のトラック個別設定で2小節以降にするなどして、プログラムチェンジが自動的に送信されないように設定してください。</Memo>
+					<Data>@NRPN 14H #GL #VL #NONE</Data>
+				</CCM>
+				<CCM ID="155" Name="Drum Resonance" Color="#101050">
+					<Value Min="-64" Max="63" Offset="64" />
+					<Gate Default="60" Type="Key" />
+					<Memo>カットオフ周波数付近を強調する度合いを調節します。Gateで調節したい楽器のキーナンバーを指定します。\n音色の選択(プログラムチェンジ)で初期化されてしまうので、「MIDI機器の状態を合わせる」機能を使っているときは[MIDI機器の状態を合わせる]機能のトラック個別設定で2小節以降にするなどして、プログラムチェンジが自動的に送信されないように設定してください。</Memo>
+					<Data>@NRPN 15H #GL #VL #NONE</Data>
+				</CCM>
+				<CCM ID="156" Name="Drum Coarse Tuning" Color="#101050">
+					<Value Min="-64" Max="63" Offset="64" Name="semitone" />
+					<Gate Default="60" Type="Key" />
+					<Memo>音程を半音単位で変えます。Gateで調節したい楽器のキーナンバーを指定します。\n\n音色の選択(プログラムチェンジ)で初期化されてしまうので、「MIDI機器の状態を合わせる」機能を使っているときは[MIDI機器の状態を合わせる]機能のトラック個別設定で2小節以降にするなどして、プログラムチェンジが自動的に送信されないように設定してください。</Memo>
+					<Data>@NRPN 18H #GL #VL #NONE</Data>
+				</CCM>
+				<CCM ID="157" Name="Drum Fine Tuning" Color="#101050">
+					<Value Min="-64" Max="63" Offset="64" Name="±100 cent" />
+					<Gate Default="60" Type="Key" />
+					<Memo>音程を微調節します。-64で半音さがり、+63で半音上がります。Gateで調節したい楽器のキーナンバーを指定します。\n音色の選択(プログラムチェンジ)で初期化されてしまうので、「MIDI機器の状態を合わせる」機能を使っているときは[MIDI機器の状態を合わせる]機能のトラック個別設定で2小節以降にするなどして、プログラムチェンジが自動的に送信されないように設定してください。</Memo>
+					<Data>@NRPN 19H #GL #VL #NONE</Data>
+				</CCM>
+			</Folder>
+			<Folder Name="Misc.">
+				<Memo>MIDIの機能などのメッセージです。通常は使いません。</Memo>
+				<CCM ID="0" Name="Bank Select MSB" Color="#800080">
+					<Value />
+					<Memo>バンクを指定します。Dominoはプログラムチェンジイベントでバンクも指定できるので、データ制作時には使いません。</Memo>
+					<Data>@CC 0 #VL</Data>
+				</CCM>
+				<CCM ID="32" Name="Bank Select LSB" Color="#800080">
+					<Value />
+					<Memo>バンクを指定します。Dominoはプログラムチェンジイベントでバンクも指定できるので、データ制作時には使いません。</Memo>
+					<Data>@CC 32 #VL</Data>
+				</CCM>
+				<CCM ID="6" Name="Data Entry MSB" Color="#106010">
+					<Value />
+					<Memo>RPN、NRPNで値を指定します。\nDominoはコントロールチェンジマクロ機能でCCをまとめて送れるので、データ制作時には使いません。</Memo>
+					<Data>@CC 6 #VL</Data>
+				</CCM>
+				<CCM ID="38" Name="Data Entry LSB" Color="#106010">
+					<Value />
+					<Memo>RPN、NRPNで値を指定します。\nDominoはコントロールチェンジマクロ機能でCCをまとめて送れるので、データ制作時には使いません。</Memo>
+					<Data>@CC 38 #VL</Data>
+				</CCM>
+				<CCM ID="101" Name="RPN MSB" Color="#106010">
+					<Value />
+					<Memo>RPNの種類を指定します。\nDominoはコントロールチェンジマクロ機能でCCをまとめて送れるので、データ制作時には使いません。</Memo>
+					<Data>@CC 101 #VL</Data>
+				</CCM>
+				<CCM ID="100" Name="RPN LSB" Color="#106010">
+					<Value />
+					<Memo>RPNの種類を指定します。\nDominoはコントロールチェンジマクロ機能でCCをまとめて送れるので、データ制作時には使いません。</Memo>
+					<Data>@CC 100 #VL</Data>
+				</CCM>
+				<CCM ID="99" Name="NRPN MSB" Color="#106010">
+					<Value />
+					<Memo>NRPNの種類を指定します。\nDominoはコントロールチェンジマクロ機能でCCをまとめて送れるので、データ制作時には使いません。</Memo>
+					<Data>@CC 99 #VL</Data>
+				</CCM>
+				<CCM ID="98" Name="NRPN LSB" Color="#106010">
+					<Value />
+					<Memo>NRPNの種類を指定します。\nDominoはコントロールチェンジマクロ機能でCCをまとめて送れるので、データ制作時には使いません。</Memo>
+					<Data>@CC 98 #VL</Data>
+				</CCM>
+				<CCM ID="120" Name="All Sounds Off" Color="#101050">
+					<Memo>発音中の音を強制的に止めます。</Memo>
+					<Data>@CC 120 0</Data>
+				</CCM>
+				<CCM ID="121" Name="Reset All Controllers" Color="#101050">
+					<Memo>ピッチベンドやモジュレーションなどの演奏で使うパラメーターと、RPNの種類を初期化します。</Memo>
+					<Data>@CC 121 0</Data>
+				</CCM>
+				<CCM ID="123" Name="All Notes Off" Color="#101050">
+					<Memo>発音中の音を止めます。</Memo>
+					<Data>@CC 123 0</Data>
+				</CCM>
+			</Folder>
+		</Folder>
+		<Folder Name="System &amp; Common">
+			<Memo>全体の設定をします。</Memo>
+			<CCM ID="200" Name="Master Volume" Color="#2040c0">
+				<Value Default="127" />
+				<Memo>全体の音量を調節します。曲終わりのフェードアウトなどにはこのメッセージを使いましょう。</Memo>
+				<Data>@SYSEX F0H 7FH 7FH 04H 01H 00H #VL F7H</Data>
+			</CCM>
+			<CCM ID="210" Name="XG Mode On" Color="#101050">
+				<Memo>音源を初期化します。BASSMIDIを使ったサウンドフォントプレイヤーでは、XGモードになっているとBank Selectのみで通常の音階楽器と打楽器のどちらを使うかを切り替えることができます。ただしパート10はシステムエクスクルーシブを使わない限り打楽器で固定されます。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 00H 00H 7EH 00H F7H</Data>
+			</CCM>
+			<CCM ID="211" Name="XG Part Mode" Color="#101050">
+				<Value Max="1">
+					<Entry Label="Normal" Value="0" />
+					<Entry Label="Drum" Value="1" />
+				</Value>
+				<Gate Max="15">
+					<Entry Label="Part 01" Value="0" />
+					<Entry Label="Part 02" Value="1" />
+					<Entry Label="Part 03" Value="2" />
+					<Entry Label="Part 04" Value="3" />
+					<Entry Label="Part 05" Value="4" />
+					<Entry Label="Part 06" Value="5" />
+					<Entry Label="Part 07" Value="6" />
+					<Entry Label="Part 08" Value="7" />
+					<Entry Label="Part 09" Value="8" />
+					<Entry Label="Part 10" Value="9" />
+					<Entry Label="Part 11" Value="10" />
+					<Entry Label="Part 12" Value="11" />
+					<Entry Label="Part 13" Value="12" />
+					<Entry Label="Part 14" Value="13" />
+					<Entry Label="Part 15" Value="14" />
+					<Entry Label="Part 16" Value="15" />
+				</Gate>
+				<Memo>パートで通常の音階楽器を使うか打楽器を使うかを選択します。XGモード用のメッセージです。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 08H #GL 07H #VL F7H</Data>
+			</CCM>
+			<CCM ID="212" Name="GS Reset" Color="#101050">
+				<Memo>音源を初期化します。BASSMIDIを使ったサウンドフォントプレイヤーでは、GSモードになっているとシステムエクスクルーシブで通常の音階楽器と打楽器のどちらを使うかを切り替えることができます。</Memo>
+				<Data>@SYSEX F0H 41H 10H 42H 12H [ 40H 00H 7FH 00H ] F7H</Data>
+			</CCM>
+			<CCM ID="213" Name="GS Part Mode" Color="#101050">
+				<Value Max="1">
+					<Entry Label="Normal" Value="0" />
+					<Entry Label="Drum" Value="1" />
+				</Value>
+				<Gate Default="1" Max="15">
+					<Entry Label="Part 01" Value="1" />
+					<Entry Label="Part 02" Value="2" />
+					<Entry Label="Part 03" Value="3" />
+					<Entry Label="Part 04" Value="4" />
+					<Entry Label="Part 05" Value="5" />
+					<Entry Label="Part 06" Value="6" />
+					<Entry Label="Part 07" Value="7" />
+					<Entry Label="Part 08" Value="8" />
+					<Entry Label="Part 09" Value="9" />
+					<Entry Label="Part 10" Value="0" />
+					<Entry Label="Part 11" Value="10" />
+					<Entry Label="Part 12" Value="11" />
+					<Entry Label="Part 13" Value="12" />
+					<Entry Label="Part 14" Value="13" />
+					<Entry Label="Part 15" Value="14" />
+					<Entry Label="Part 16" Value="15" />
+				</Gate>
+				<Memo>パートで通常の音階楽器を使うか打楽器を使うかを選択します。GSモード用のメッセージです。</Memo>
+				<Data>@SYSEX F0H 41H 10H 42H 12H [ 40H #GL 15H #VL ] F7H</Data>
+			</CCM>
+		</Folder>
+		<Folder Name="Reverb">
+			<Memo>リバーブ(残響)の設定をします。</Memo>
+			<CCM ID="220" Name="Reverb Type" Color="#20b020">
+				<Value Default="128" Max="16383">
+					<Entry Label="No Effect" Value="0" />
+					<Entry Label="Hall 1" Value="128" />
+					<Entry Label="Hall 2" Value="129" />
+					<Entry Label="Room 1" Value="256" />
+					<Entry Label="Room 2" Value="257" />
+					<Entry Label="Room 3" Value="258" />
+					<Entry Label="Stage 1" Value="384" />
+					<Entry Label="Stage 2" Value="385" />
+					<Entry Label="Plate" Value="512" />
+					<Entry Label="White Room" Value="2048" />
+					<Entry Label="Tunnel" Value="2176" />
+					<Entry Label="Basement" Value="2432" />
+				</Value>
+				<Memo>リバーブ(残響)の種類を選択します。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 00H #VH #VL F7H</Data>
+			</CCM>
+			<CCM ID="221" Name="Reverb Level" Color="#20b020">
+				<Value Default="64" />
+				<Memo>リバーブの音量を調節します。全パートのリバーブの音量が変わります。\nBASSMIDIを使ったサウンドフォントプレイヤーでは、受信したシステムエクスクルーシブに上書きする設定が無効になっていないと効果がありません。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 0CH #VL F7H</Data>
+			</CCM>
+			<CCM ID="222" Name="Reverb Time" Color="#20b020">
+				<Value Max="69" Default="18">
+					<Entry Label="0.3s" Value="0" />
+					<Entry Label="0.4s" Value="1" />
+					<Entry Label="0.5s" Value="2" />
+					<Entry Label="0.6s" Value="3" />
+					<Entry Label="0.7s" Value="4" />
+					<Entry Label="0.8s" Value="5" />
+					<Entry Label="0.9s" Value="6" />
+					<Entry Label="1.0s" Value="7" />
+					<Entry Label="1.1s" Value="8" />
+					<Entry Label="1.2s" Value="9" />
+					<Entry Label="1.3s" Value="10" />
+					<Entry Label="1.4s" Value="11" />
+					<Entry Label="1.5s" Value="12" />
+					<Entry Label="1.6s" Value="13" />
+					<Entry Label="1.7s" Value="14" />
+					<Entry Label="1.8s" Value="15" />
+					<Entry Label="1.9s" Value="16" />
+					<Entry Label="2.0s" Value="17" />
+					<Entry Label="2.1s" Value="18" />
+					<Entry Label="2.2s" Value="19" />
+					<Entry Label="2.3s" Value="20" />
+					<Entry Label="2.4s" Value="21" />
+					<Entry Label="2.5s" Value="22" />
+					<Entry Label="2.6s" Value="23" />
+					<Entry Label="2.7s" Value="24" />
+					<Entry Label="2.8s" Value="25" />
+					<Entry Label="2.9s" Value="26" />
+					<Entry Label="3.0s" Value="27" />
+					<Entry Label="3.1s" Value="28" />
+					<Entry Label="3.2s" Value="29" />
+					<Entry Label="3.3s" Value="30" />
+					<Entry Label="3.4s" Value="31" />
+					<Entry Label="3.5s" Value="32" />
+					<Entry Label="3.6s" Value="33" />
+					<Entry Label="3.7s" Value="34" />
+					<Entry Label="3.8s" Value="35" />
+					<Entry Label="3.9s" Value="36" />
+					<Entry Label="4.0s" Value="37" />
+					<Entry Label="4.1s" Value="38" />
+					<Entry Label="4.2s" Value="39" />
+					<Entry Label="4.3s" Value="40" />
+					<Entry Label="4.4s" Value="41" />
+					<Entry Label="4.5s" Value="42" />
+					<Entry Label="4.6s" Value="43" />
+					<Entry Label="4.7s" Value="44" />
+					<Entry Label="4.8s" Value="45" />
+					<Entry Label="4.9s" Value="46" />
+					<Entry Label="5.0s" Value="47" />
+					<Entry Label="5.5s" Value="48" />
+					<Entry Label="6.0s" Value="49" />
+					<Entry Label="6.5s" Value="50" />
+					<Entry Label="7.0s" Value="51" />
+					<Entry Label="7.5s" Value="52" />
+					<Entry Label="8.0s" Value="53" />
+					<Entry Label="8.5s" Value="54" />
+					<Entry Label="9.0s" Value="55" />
+					<Entry Label="9.5s" Value="56" />
+					<Entry Label="10.0s" Value="57" />
+					<Entry Label="11.0s" Value="58" />
+					<Entry Label="12.0s" Value="59" />
+					<Entry Label="13.0s" Value="60" />
+					<Entry Label="14.0s" Value="61" />
+					<Entry Label="15.0s" Value="62" />
+					<Entry Label="16.0s" Value="63" />
+					<Entry Label="17.0s" Value="64" />
+					<Entry Label="18.0s" Value="65" />
+					<Entry Label="19.0s" Value="66" />
+					<Entry Label="20.0s" Value="67" />
+					<Entry Label="25.0s" Value="68" />
+					<Entry Label="30.0s" Value="69" />
+				</Value>
+				<Memo>リバーブの時間を調節します。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 02H #VL F7H</Data>
+			</CCM>
+			<CCM ID="223" Name="Reverb Initial Delay" Color="#20b020">
+				<Value Default="8" Max="63">
+					<Entry Label="0.1ms" Value="0" />
+					<Entry Label="1.7ms" Value="1" />
+					<Entry Label="3.2ms" Value="2" />
+					<Entry Label="4.8ms" Value="3" />
+					<Entry Label="6.4ms" Value="4" />
+					<Entry Label="8.0ms" Value="5" />
+					<Entry Label="9.5ms" Value="6" />
+					<Entry Label="11.1ms" Value="7" />
+					<Entry Label="12.7ms" Value="8" />
+					<Entry Label="14.3ms" Value="9" />
+					<Entry Label="15.8ms" Value="10" />
+					<Entry Label="17.4ms" Value="11" />
+					<Entry Label="19.0ms" Value="12" />
+					<Entry Label="20.6ms" Value="13" />
+					<Entry Label="22.1ms" Value="14" />
+					<Entry Label="23.7ms" Value="15" />
+					<Entry Label="25.3ms" Value="16" />
+					<Entry Label="26.9ms" Value="17" />
+					<Entry Label="28.4ms" Value="18" />
+					<Entry Label="30.0ms" Value="19" />
+					<Entry Label="31.6ms" Value="20" />
+					<Entry Label="33.2ms" Value="21" />
+					<Entry Label="34.7ms" Value="22" />
+					<Entry Label="36.3ms" Value="23" />
+					<Entry Label="37.9ms" Value="24" />
+					<Entry Label="39.5ms" Value="25" />
+					<Entry Label="41.0ms" Value="26" />
+					<Entry Label="42.6ms" Value="27" />
+					<Entry Label="44.2ms" Value="28" />
+					<Entry Label="45.7ms" Value="29" />
+					<Entry Label="47.3ms" Value="30" />
+					<Entry Label="48.9ms" Value="31" />
+					<Entry Label="50.5ms" Value="32" />
+					<Entry Label="52.0ms" Value="33" />
+					<Entry Label="53.6ms" Value="34" />
+					<Entry Label="55.2ms" Value="35" />
+					<Entry Label="56.8ms" Value="36" />
+					<Entry Label="58.3ms" Value="37" />
+					<Entry Label="59.9ms" Value="38" />
+					<Entry Label="61.5ms" Value="39" />
+					<Entry Label="63.1ms" Value="40" />
+					<Entry Label="64.6ms" Value="41" />
+					<Entry Label="66.2ms" Value="42" />
+					<Entry Label="67.8ms" Value="43" />
+					<Entry Label="69.4ms" Value="44" />
+					<Entry Label="70.9ms" Value="45" />
+					<Entry Label="72.5ms" Value="46" />
+					<Entry Label="74.1ms" Value="47" />
+					<Entry Label="75.7ms" Value="48" />
+					<Entry Label="77.2ms" Value="49" />
+					<Entry Label="78.8ms" Value="50" />
+					<Entry Label="80.4ms" Value="51" />
+					<Entry Label="81.9ms" Value="52" />
+					<Entry Label="83.5ms" Value="53" />
+					<Entry Label="85.1ms" Value="54" />
+					<Entry Label="86.7ms" Value="55" />
+					<Entry Label="88.2ms" Value="56" />
+					<Entry Label="89.8ms" Value="57" />
+					<Entry Label="91.4ms" Value="58" />
+					<Entry Label="93.0ms" Value="59" />
+					<Entry Label="94.5ms" Value="60" />
+					<Entry Label="96.1ms" Value="61" />
+					<Entry Label="97.7ms" Value="62" />
+					<Entry Label="99.3ms" Value="63" />
+				</Value>
+				<Memo>直接音から初期反射音までの時間を調節します。プリディレイとも呼ばれます。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 04H #VL F7H</Data>
+			</CCM>
+			<CCM ID="224" Name="Reverb HPF Cutoff" Color="#20b020">
+				<Value Default="13" Max="52">
+					<Entry Label="Thru" Value="0" />
+					<Entry Label="22Hz" Value="1" />
+					<Entry Label="25Hz" Value="2" />
+					<Entry Label="28Hz" Value="3" />
+					<Entry Label="32Hz" Value="4" />
+					<Entry Label="36Hz" Value="5" />
+					<Entry Label="40Hz" Value="6" />
+					<Entry Label="45Hz" Value="7" />
+					<Entry Label="50Hz" Value="8" />
+					<Entry Label="56Hz" Value="9" />
+					<Entry Label="63Hz" Value="10" />
+					<Entry Label="70Hz" Value="11" />
+					<Entry Label="80Hz" Value="12" />
+					<Entry Label="90Hz" Value="13" />
+					<Entry Label="100Hz" Value="14" />
+					<Entry Label="110Hz" Value="15" />
+					<Entry Label="125Hz" Value="16" />
+					<Entry Label="140Hz" Value="17" />
+					<Entry Label="160Hz" Value="18" />
+					<Entry Label="180Hz" Value="19" />
+					<Entry Label="200Hz" Value="20" />
+					<Entry Label="225Hz" Value="21" />
+					<Entry Label="250Hz" Value="22" />
+					<Entry Label="280Hz" Value="23" />
+					<Entry Label="315Hz" Value="24" />
+					<Entry Label="355Hz" Value="25" />
+					<Entry Label="400Hz" Value="26" />
+					<Entry Label="450Hz" Value="27" />
+					<Entry Label="500Hz" Value="28" />
+					<Entry Label="560Hz" Value="29" />
+					<Entry Label="630Hz" Value="30" />
+					<Entry Label="700Hz" Value="31" />
+					<Entry Label="800Hz" Value="32" />
+					<Entry Label="900Hz" Value="33" />
+					<Entry Label="1000Hz" Value="34" />
+					<Entry Label="1100Hz" Value="35" />
+					<Entry Label="1200Hz" Value="36" />
+					<Entry Label="1400Hz" Value="37" />
+					<Entry Label="1600Hz" Value="38" />
+					<Entry Label="1800Hz" Value="39" />
+					<Entry Label="2000Hz" Value="40" />
+					<Entry Label="2200Hz" Value="41" />
+					<Entry Label="2500Hz" Value="42" />
+					<Entry Label="2800Hz" Value="43" />
+					<Entry Label="3200Hz" Value="44" />
+					<Entry Label="3600Hz" Value="45" />
+					<Entry Label="4000Hz" Value="46" />
+					<Entry Label="4500Hz" Value="47" />
+					<Entry Label="5000Hz" Value="48" />
+					<Entry Label="5600Hz" Value="49" />
+					<Entry Label="6300Hz" Value="50" />
+					<Entry Label="7000Hz" Value="51" />
+					<Entry Label="8000Hz" Value="52" />
+				</Value>
+				<Memo>リバーブの低音域をカットする周波数を調節します。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 05H #VL F7H</Data>
+			</CCM>
+			<CCM ID="225" Name="Reverb LPF Cutoff" Color="#20b020">
+				<Value Default="49" Min="34" Max="60">
+					<Entry Label="1000Hz" Value="34" />
+					<Entry Label="1100Hz" Value="35" />
+					<Entry Label="1200Hz" Value="36" />
+					<Entry Label="1400Hz" Value="37" />
+					<Entry Label="1600Hz" Value="38" />
+					<Entry Label="1800Hz" Value="39" />
+					<Entry Label="2000Hz" Value="40" />
+					<Entry Label="2200Hz" Value="41" />
+					<Entry Label="2500Hz" Value="42" />
+					<Entry Label="2800Hz" Value="43" />
+					<Entry Label="3200Hz" Value="44" />
+					<Entry Label="3600Hz" Value="45" />
+					<Entry Label="4000Hz" Value="46" />
+					<Entry Label="4500Hz" Value="47" />
+					<Entry Label="5000Hz" Value="48" />
+					<Entry Label="5600Hz" Value="49" />
+					<Entry Label="6300Hz" Value="50" />
+					<Entry Label="7000Hz" Value="51" />
+					<Entry Label="8000Hz" Value="52" />
+					<Entry Label="9000Hz" Value="53" />
+					<Entry Label="10000Hz" Value="54" />
+					<Entry Label="11000Hz" Value="55" />
+					<Entry Label="12000Hz" Value="56" />
+					<Entry Label="14000Hz" Value="57" />
+					<Entry Label="16000Hz" Value="58" />
+					<Entry Label="18000Hz" Value="59" />
+					<Entry Label="Thru" Value="60" />
+				</Value>
+				<Memo>リバーブの高音域をカットする周波数を調節します。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 06H #VL F7H</Data>
+			</CCM>
+		</Folder>
+		<Folder Name="Chorus">
+			<Memo>コーラスの設定をします。コーラスは元の音とビブラートをかけた音を重ねることで、音を広げるエフェクトです。</Memo>
+			<CCM ID="240" Name="Chorus Type" Color="#1070e0">
+				<Value Default="8320" Max="16383">
+					<Entry Label="No Effect" Value="0" />
+					<Entry Label="Chorus 1" Value="8320" />
+					<Entry Label="Chorus 2" Value="8321" />
+					<Entry Label="Chorus 3" Value="8322" />
+					<Entry Label="Chorus 4" Value="8328" />
+					<Entry Label="Celeste 1" Value="8448" />
+					<Entry Label="Celeste 2" Value="8449" />
+					<Entry Label="Celeste 3" Value="8450" />
+					<Entry Label="Celeste 4" Value="8456" />
+					<Entry Label="Flanger 1" Value="8576" />
+					<Entry Label="Flanger 2" Value="8577" />
+					<Entry Label="Flanger 3" Value="8584" />
+				</Value>
+				<Memo>コーラスの種類を選択します。コーラスは元の音とビブラートをかけた音を重ねることで、音を広げるエフェクトです。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 20H #VH #VL F7H</Data>
+			</CCM>
+			<CCM ID="241" Name="Chorus Level" Color="#1070e0">
+				<Value Default="64" />
+				<Memo>コーラスの音量を調節します。全パートのコーラスの音量が変わります。\nBASSMIDIを使ったサウンドフォントプレイヤーでは、受信したシステムエクスクルーシブに上書きする設定が無効になっていないと効果がありません。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 2CH #VL F7H</Data>
+			</CCM>
+			<CCM ID="242" Name="Chorus Send to Reverb" Color="#1070e0">
+				<Value Default="64" />
+				<Memo>コーラス音をリバーブに送る量を調節します。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 2EH #VL F7H</Data>
+			</CCM>
+			<CCM ID="243" Name="Chorus Modulation Frequency" Color="#1070e0">
+				<Value Default="6">
+					<Entry Label="0.00Hz" Value="0" />
+					<Entry Label="0.04Hz" Value="1" />
+					<Entry Label="0.08Hz" Value="2" />
+					<Entry Label="0.13Hz" Value="3" />
+					<Entry Label="0.17Hz" Value="4" />
+					<Entry Label="0.21Hz" Value="5" />
+					<Entry Label="0.25Hz" Value="6" />
+					<Entry Label="0.29Hz" Value="7" />
+					<Entry Label="0.34Hz" Value="8" />
+					<Entry Label="0.38Hz" Value="9" />
+					<Entry Label="0.42Hz" Value="10" />
+					<Entry Label="0.46Hz" Value="11" />
+					<Entry Label="0.51Hz" Value="12" />
+					<Entry Label="0.55Hz" Value="13" />
+					<Entry Label="0.59Hz" Value="14" />
+					<Entry Label="0.63Hz" Value="15" />
+					<Entry Label="0.67Hz" Value="16" />
+					<Entry Label="0.72Hz" Value="17" />
+					<Entry Label="0.76Hz" Value="18" />
+					<Entry Label="0.80Hz" Value="19" />
+					<Entry Label="0.84Hz" Value="20" />
+					<Entry Label="0.88Hz" Value="21" />
+					<Entry Label="0.93Hz" Value="22" />
+					<Entry Label="0.97Hz" Value="23" />
+					<Entry Label="1.01Hz" Value="24" />
+					<Entry Label="1.05Hz" Value="25" />
+					<Entry Label="1.09Hz" Value="26" />
+					<Entry Label="1.14Hz" Value="27" />
+					<Entry Label="1.18Hz" Value="28" />
+					<Entry Label="1.22Hz" Value="29" />
+					<Entry Label="1.26Hz" Value="30" />
+					<Entry Label="1.30Hz" Value="31" />
+					<Entry Label="1.35Hz" Value="32" />
+					<Entry Label="1.39Hz" Value="33" />
+					<Entry Label="1.43Hz" Value="34" />
+					<Entry Label="1.47Hz" Value="35" />
+					<Entry Label="1.51Hz" Value="36" />
+					<Entry Label="1.56Hz" Value="37" />
+					<Entry Label="1.60Hz" Value="38" />
+					<Entry Label="1.64Hz" Value="39" />
+					<Entry Label="1.68Hz" Value="40" />
+					<Entry Label="1.72Hz" Value="41" />
+					<Entry Label="1.77Hz" Value="42" />
+					<Entry Label="1.81Hz" Value="43" />
+					<Entry Label="1.85Hz" Value="44" />
+					<Entry Label="1.89Hz" Value="45" />
+					<Entry Label="1.94Hz" Value="46" />
+					<Entry Label="1.98Hz" Value="47" />
+					<Entry Label="2.02Hz" Value="48" />
+					<Entry Label="2.06Hz" Value="49" />
+					<Entry Label="2.10Hz" Value="50" />
+					<Entry Label="2.15Hz" Value="51" />
+					<Entry Label="2.19Hz" Value="52" />
+					<Entry Label="2.23Hz" Value="53" />
+					<Entry Label="2.27Hz" Value="54" />
+					<Entry Label="2.31Hz" Value="55" />
+					<Entry Label="2.36Hz" Value="56" />
+					<Entry Label="2.40Hz" Value="57" />
+					<Entry Label="2.44Hz" Value="58" />
+					<Entry Label="2.48Hz" Value="59" />
+					<Entry Label="2.52Hz" Value="60" />
+					<Entry Label="2.57Hz" Value="61" />
+					<Entry Label="2.61Hz" Value="62" />
+					<Entry Label="2.65Hz" Value="63" />
+					<Entry Label="2.69Hz" Value="64" />
+					<Entry Label="2.78Hz" Value="65" />
+					<Entry Label="2.86Hz" Value="66" />
+					<Entry Label="2.94Hz" Value="67" />
+					<Entry Label="3.03Hz" Value="68" />
+					<Entry Label="3.11Hz" Value="69" />
+					<Entry Label="3.20Hz" Value="70" />
+					<Entry Label="3.28Hz" Value="71" />
+					<Entry Label="3.37Hz" Value="72" />
+					<Entry Label="3.45Hz" Value="73" />
+					<Entry Label="3.53Hz" Value="74" />
+					<Entry Label="3.62Hz" Value="75" />
+					<Entry Label="3.70Hz" Value="76" />
+					<Entry Label="3.87Hz" Value="77" />
+					<Entry Label="4.04Hz" Value="78" />
+					<Entry Label="4.21Hz" Value="79" />
+					<Entry Label="4.37Hz" Value="80" />
+					<Entry Label="4.54Hz" Value="81" />
+					<Entry Label="4.71Hz" Value="82" />
+					<Entry Label="4.88Hz" Value="83" />
+					<Entry Label="5.05Hz" Value="84" />
+					<Entry Label="5.22Hz" Value="85" />
+					<Entry Label="5.38Hz" Value="86" />
+					<Entry Label="5.55Hz" Value="87" />
+					<Entry Label="5.72Hz" Value="88" />
+					<Entry Label="6.06Hz" Value="89" />
+					<Entry Label="6.39Hz" Value="90" />
+					<Entry Label="6.73Hz" Value="91" />
+					<Entry Label="7.07Hz" Value="92" />
+					<Entry Label="7.40Hz" Value="93" />
+					<Entry Label="7.74Hz" Value="94" />
+					<Entry Label="8.08Hz" Value="95" />
+					<Entry Label="8.41Hz" Value="96" />
+					<Entry Label="8.75Hz" Value="97" />
+					<Entry Label="9.08Hz" Value="98" />
+					<Entry Label="9.42Hz" Value="99" />
+					<Entry Label="9.76Hz" Value="100" />
+					<Entry Label="10.10Hz" Value="101" />
+					<Entry Label="10.80Hz" Value="102" />
+					<Entry Label="11.40Hz" Value="103" />
+					<Entry Label="12.10Hz" Value="104" />
+					<Entry Label="12.80Hz" Value="105" />
+					<Entry Label="13.50Hz" Value="106" />
+					<Entry Label="14.10Hz" Value="107" />
+					<Entry Label="14.80Hz" Value="108" />
+					<Entry Label="15.50Hz" Value="109" />
+					<Entry Label="16.20Hz" Value="110" />
+					<Entry Label="16.80Hz" Value="111" />
+					<Entry Label="17.50Hz" Value="112" />
+					<Entry Label="18.20Hz" Value="113" />
+					<Entry Label="19.50Hz" Value="114" />
+					<Entry Label="20.90Hz" Value="115" />
+					<Entry Label="20.20Hz" Value="116" />
+					<Entry Label="23.60Hz" Value="117" />
+					<Entry Label="24.90Hz" Value="118" />
+					<Entry Label="26.20Hz" Value="119" />
+					<Entry Label="27.60Hz" Value="120" />
+					<Entry Label="28.90Hz" Value="121" />
+					<Entry Label="30.30Hz" Value="122" />
+					<Entry Label="31.60Hz" Value="123" />
+					<Entry Label="33.00Hz" Value="124" />
+					<Entry Label="34.30Hz" Value="125" />
+					<Entry Label="37.00Hz" Value="126" />
+					<Entry Label="39.70Hz" Value="127" />
+				</Value>
+				<Memo>コーラスで音にビブラートをかける周期を調節します。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 22H #VL F7H</Data>
+			</CCM>
+			<CCM ID="244" Name="Chorus Modulation Depth" Color="#1070e0">
+				<Value Default="54" />
+				<Memo>コーラスで音にビブラートをかける深さを調節します。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 23H #VL F7H</Data>
+			</CCM>
+			<CCM ID="245" Name="Chorus Feedback Level" Color="#1070e0">
+				<Value Default="13" Min="-63" Max="63" Offset="64" />
+				<Memo>コーラス音をコーラスの入力に戻す量を設定します。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 24H #VL F7H</Data>
+			</CCM>
+			<CCM ID="246" Name="Chorus Modulation Delay Offset" Color="#1070e0">
+				<Value Default="106">
+					<Entry Label="0.0ms" Value="0" />
+					<Entry Label="0.1ms" Value="1" />
+					<Entry Label="0.2ms" Value="2" />
+					<Entry Label="0.3ms" Value="3" />
+					<Entry Label="0.4ms" Value="4" />
+					<Entry Label="0.5ms" Value="5" />
+					<Entry Label="0.6ms" Value="6" />
+					<Entry Label="0.7ms" Value="7" />
+					<Entry Label="0.8ms" Value="8" />
+					<Entry Label="0.9ms" Value="9" />
+					<Entry Label="1.0ms" Value="10" />
+					<Entry Label="1.1ms" Value="11" />
+					<Entry Label="1.2ms" Value="12" />
+					<Entry Label="1.3ms" Value="13" />
+					<Entry Label="1.4ms" Value="14" />
+					<Entry Label="1.5ms" Value="15" />
+					<Entry Label="1.6ms" Value="16" />
+					<Entry Label="1.7ms" Value="17" />
+					<Entry Label="1.8ms" Value="18" />
+					<Entry Label="1.9ms" Value="19" />
+					<Entry Label="2.0ms" Value="20" />
+					<Entry Label="2.1ms" Value="21" />
+					<Entry Label="2.2ms" Value="22" />
+					<Entry Label="2.3ms" Value="23" />
+					<Entry Label="2.4ms" Value="24" />
+					<Entry Label="2.5ms" Value="25" />
+					<Entry Label="2.6ms" Value="26" />
+					<Entry Label="2.7ms" Value="27" />
+					<Entry Label="2.8ms" Value="28" />
+					<Entry Label="2.9ms" Value="29" />
+					<Entry Label="3.0ms" Value="30" />
+					<Entry Label="3.1ms" Value="31" />
+					<Entry Label="3.2ms" Value="32" />
+					<Entry Label="3.3ms" Value="33" />
+					<Entry Label="3.4ms" Value="34" />
+					<Entry Label="3.5ms" Value="35" />
+					<Entry Label="3.6ms" Value="36" />
+					<Entry Label="3.7ms" Value="37" />
+					<Entry Label="3.8ms" Value="38" />
+					<Entry Label="3.9ms" Value="39" />
+					<Entry Label="4.0ms" Value="40" />
+					<Entry Label="4.1ms" Value="41" />
+					<Entry Label="4.2ms" Value="42" />
+					<Entry Label="4.3ms" Value="43" />
+					<Entry Label="4.4ms" Value="44" />
+					<Entry Label="4.5ms" Value="45" />
+					<Entry Label="4.6ms" Value="46" />
+					<Entry Label="4.7ms" Value="47" />
+					<Entry Label="4.8ms" Value="48" />
+					<Entry Label="4.9ms" Value="49" />
+					<Entry Label="5.0ms" Value="50" />
+					<Entry Label="5.1ms" Value="51" />
+					<Entry Label="5.2ms" Value="52" />
+					<Entry Label="5.3ms" Value="53" />
+					<Entry Label="5.4ms" Value="54" />
+					<Entry Label="5.5ms" Value="55" />
+					<Entry Label="5.6ms" Value="56" />
+					<Entry Label="5.7ms" Value="57" />
+					<Entry Label="5.8ms" Value="58" />
+					<Entry Label="5.9ms" Value="59" />
+					<Entry Label="6.0ms" Value="60" />
+					<Entry Label="6.1ms" Value="61" />
+					<Entry Label="6.2ms" Value="62" />
+					<Entry Label="6.3ms" Value="63" />
+					<Entry Label="6.4ms" Value="64" />
+					<Entry Label="6.5ms" Value="65" />
+					<Entry Label="6.6ms" Value="66" />
+					<Entry Label="6.7ms" Value="67" />
+					<Entry Label="6.8ms" Value="68" />
+					<Entry Label="6.9ms" Value="69" />
+					<Entry Label="7.0ms" Value="70" />
+					<Entry Label="7.1ms" Value="71" />
+					<Entry Label="7.2ms" Value="72" />
+					<Entry Label="7.3ms" Value="73" />
+					<Entry Label="7.4ms" Value="74" />
+					<Entry Label="7.5ms" Value="75" />
+					<Entry Label="7.6ms" Value="76" />
+					<Entry Label="7.7ms" Value="77" />
+					<Entry Label="7.8ms" Value="78" />
+					<Entry Label="7.9ms" Value="79" />
+					<Entry Label="8.0ms" Value="80" />
+					<Entry Label="8.1ms" Value="81" />
+					<Entry Label="8.2ms" Value="82" />
+					<Entry Label="8.3ms" Value="83" />
+					<Entry Label="8.4ms" Value="84" />
+					<Entry Label="8.5ms" Value="85" />
+					<Entry Label="8.6ms" Value="86" />
+					<Entry Label="8.7ms" Value="87" />
+					<Entry Label="8.8ms" Value="88" />
+					<Entry Label="8.9ms" Value="89" />
+					<Entry Label="9.0ms" Value="90" />
+					<Entry Label="9.1ms" Value="91" />
+					<Entry Label="9.2ms" Value="92" />
+					<Entry Label="9.3ms" Value="93" />
+					<Entry Label="9.4ms" Value="94" />
+					<Entry Label="9.5ms" Value="95" />
+					<Entry Label="9.6ms" Value="96" />
+					<Entry Label="9.7ms" Value="97" />
+					<Entry Label="9.8ms" Value="98" />
+					<Entry Label="9.9ms" Value="99" />
+					<Entry Label="10.0ms" Value="100" />
+					<Entry Label="11.1ms" Value="101" />
+					<Entry Label="12.2ms" Value="102" />
+					<Entry Label="13.3ms" Value="103" />
+					<Entry Label="14.4ms" Value="104" />
+					<Entry Label="15.5ms" Value="105" />
+					<Entry Label="17.1ms" Value="106" />
+					<Entry Label="18.6ms" Value="107" />
+					<Entry Label="20.2ms" Value="108" />
+					<Entry Label="21.8ms" Value="109" />
+					<Entry Label="23.3ms" Value="110" />
+					<Entry Label="24.9ms" Value="111" />
+					<Entry Label="26.5ms" Value="112" />
+					<Entry Label="28.0ms" Value="113" />
+					<Entry Label="29.6ms" Value="114" />
+					<Entry Label="31.2ms" Value="115" />
+					<Entry Label="32.8ms" Value="116" />
+					<Entry Label="34.3ms" Value="117" />
+					<Entry Label="35.9ms" Value="118" />
+					<Entry Label="37.5ms" Value="119" />
+					<Entry Label="39.0ms" Value="120" />
+					<Entry Label="40.6ms" Value="121" />
+					<Entry Label="42.2ms" Value="122" />
+					<Entry Label="43.7ms" Value="123" />
+					<Entry Label="45.3ms" Value="124" />
+					<Entry Label="46.9ms" Value="125" />
+					<Entry Label="48.4ms" Value="126" />
+					<Entry Label="50.0ms" Value="127" />
+				</Value>
+				<Memo>コーラスでビブラートをかけた音の遅れ具合を調節します。音の広がりかたが変わります。</Memo>
+				<Data>@SYSEX F0H 43H 10H 4CH 02H 01H 25H #VL F7H</Data>
+			</CCM>
+		</Folder>
+		<Table ID="0">
+			<Entry Value="0" Label="OFF" />
+			<Entry Value="127" Label="ON" />
+		</Table>
+	</ControlChangeMacroList>
+	<TemplateList>
+		<Template ID="0" Name="Part Setup">
+			<Memo>パートの初期設定をするメッセージ群です。</Memo>
+			<Comment Text="----Part Setup----------------------------------------" />
+			<PC MSB="19" LSB="19" Mode="Auto" />
+			<CC ID="7" />
+			<CC ID="10" />
+			<CC ID="91" Value="0" />
+			<CC ID="93" />
+			<CC ID="74" />
+			<CC ID="71" />
+			<CC ID="73" />
+			<CC ID="75" />
+			<CC ID="72" />
+			<CC ID="65" />
+			<CC ID="5" />
+			<CC ID="84" />
+			<CC ID="128" />
+			<CC ID="140" Value="12" />
+			<CC ID="142" />
+			<CC ID="141" />
+			<CC ID="130" />
+			<CC ID="1" />
+			<CC ID="11" />
+			<Comment Text="----End of Part Setup----------------------------------------" />
+		</Template>
+		<Template ID="1" Name="純正律(主音がC)">
+			<CC ID="160" />
+			<CC ID="160" Value="-8" Gate="1" />
+			<CC ID="160" Value="4" Gate="2" />
+			<CC ID="160" Value="16" Gate="3" />
+			<CC ID="160" Value="-14" Gate="4" />
+			<CC ID="160" Value="-2" Gate="5" />
+			<CC ID="160" Value="-10" Gate="6" />
+			<CC ID="160" Value="2" Gate="7" />
+			<CC ID="160" Value="14" Gate="8" />
+			<CC ID="160" Value="-16" Gate="9" />
+			<CC ID="160" Value="14" Gate="10" />
+			<CC ID="160" Value="-12" Gate="11" />
+		</Template>
+		<Template ID="2" Name="アラビア風音階">
+			<CC ID="160" Value="-6" />
+			<CC ID="160" Value="45" Gate="1" />
+			<CC ID="160" Value="-2" Gate="2" />
+			<CC ID="160" Value="-12" Gate="3" />
+			<CC ID="160" Value="-51" Gate="4" />
+			<CC ID="160" Value="-8" Gate="5" />
+			<CC ID="160" Value="43" Gate="6" />
+			<CC ID="160" Value="-4" Gate="7" />
+			<CC ID="160" Value="47" Gate="8" />
+			<CC ID="160" Value="0" Gate="9" />
+			<CC ID="160" Value="-10" Gate="10" />
+			<CC ID="160" Value="-49" Gate="11" />
+		</Template>
+	</TemplateList>
+	<DefaultData>
+		<Track Mode="Conductor">
+			<Mark Name="Setup" Tick="0" Step="0" />
+			<TimeSignature TimeSignature="4/4" />
+			<Tempo Tempo="120" />
+			<Mark Name="Start" Tick="1920" />
+			<TimeSignature TimeSignature="4/4" />
+			<Tempo Tempo="120" />
+		</Track>
+		<Track Name="System Setup" Ch="1">
+			<Comment Text="----Initialize----------------------------------------" Tick="0" Step="0" />
+			<CC ID="210" />
+			<Comment Text="----System----------------------------------------" Tick="120" />
+			<CC ID="200" />
+			<Comment Text="----Reverb----------------------------------------" Tick="240" />
+			<CC ID="220" />
+			<Comment Text="----Chorus----------------------------------------" Tick="360" />
+			<CC ID="240" />
+			<Comment Text="----End of System Setup----------------------------------------" Tick="960" />
+		</Track>
+		<Track Ch="1" Current="1">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="2">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="3">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="4">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="5">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="6">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="7">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="8">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="9">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Name="Rhythm" Ch="10" Mode="Rhythm">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="11">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="12">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="13">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="14">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="15">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+		<Track Ch="16">
+			<Template ID="0" Tick="480" Step="20" />
+		</Track>
+	</DefaultData>
+</ModuleData>
