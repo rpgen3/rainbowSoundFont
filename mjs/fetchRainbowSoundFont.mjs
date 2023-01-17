@@ -60,6 +60,10 @@ export const fetchRainbowSoundFont = async () => {
     }
 
     group[0].children.shift();
+    
+    for (const v of group) {
+        v.Name = v.Name.replace(/-/g, '');
+    }
 
     return {
         instrumentMap: group,
