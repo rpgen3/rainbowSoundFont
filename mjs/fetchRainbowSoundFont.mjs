@@ -1,4 +1,3 @@
-
 class Node {
     constructor() {
         this.children = [];
