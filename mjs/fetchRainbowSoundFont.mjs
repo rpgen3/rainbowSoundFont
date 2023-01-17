@@ -5,8 +5,8 @@ class Node {
     }
 }
 
-const parseAttributes = str => str.match(/[^ ]+=".+?"/g)?.map(v => v.split('=')).map(([a, b]) => [a, b.slice(1, -1)]);
 const endOf = array => array[array.length - 1];
+const parseAttributes = str => str.match(/[^ ]+=".+?"/g)?.map(v => v.split('=')).map(([a, b]) => [a, b.slice(1, -1)]);
 
 const parseListXML = listXML => {
     const stack = [new Node];
