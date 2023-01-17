@@ -46,26 +46,8 @@ export const fetchRainbowSoundFont = async () => {
     const instrumentList = parseListXML(instrumentListXML);
     const drumSetList = parseListXML(drumSetListXML);
 
-    const group = [...instrumentList.children].filter(v => v.children.length === 0);
-    const groupSet = new Set(group);
-
-    let index = -1;
-    for (const v of instrumentList.children) {
-        if (groupSet.has(v)) {
-            index++;
-        } else {
-            group[index].children.push(v);
-        }
-    }
-
-    group[0].children.shift();
-    
-    for (const v of group) {
-        v.Name = v.Name.replace(/-/g, '');
-    }
-
     return {
-        instrumentMap: group,
-        drumSetMap: drumSetList.children[0].children,
+        instrumentList: instrumentList.filter((_, i) => i !== 1),
+        drumSetList: drumSetList.children[0].children,
     };
 };
