@@ -47,7 +47,7 @@ export const fetchRainbowSoundFont = async () => {
     const drumSetList = parseListXML(drumSetListXML);
 
     return {
-        instrumentList: instrumentList.filter((_, i) => i !== 1),
+        instrumentList: instrumentList.children.filter((_, i) => i !== 1),
         drumSetList: drumSetList.children[0].children,
     };
 };
