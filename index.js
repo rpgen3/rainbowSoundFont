@@ -18,15 +18,18 @@
     const rpgen3 = await importAll([
         'input',
         'css',
-        'util'
+        'util',
+        'save'
     ].map(v => `https://rpgen3.github.io/mylib/export/${v}.mjs`));
     const rpgen4 = await importAll([
         'https://rpgen3.github.io/maze/mjs/heap/Heap.mjs',
         'https://rpgen3.github.io/nsx39/mjs/midiOutput/MidiOutput.mjs',
+        'https://rpgen3.github.io/rainbowSoundFont/mjs/fetchRainbowSoundFont.mjs',
         [
             'MidiNote',
             'MidiNoteMessage',
-            'MidiTempoMessage'
+            'MidiTempoMessage',
+            'TrackNameMap',
         ].map(v => `https://rpgen3.github.io/piano/mjs/midi/${v}.mjs`),
         [
             'midiScheduler'
@@ -121,6 +124,7 @@
         }).on('change', async ({target}) => {
             const file = target.files.item(0);
             viewStatus(file?.name);
+            loadSelectPrograms();
         });
         MidiParser.parse(inputFile.get(0), v => {
             g_midi = v;
@@ -181,6 +185,29 @@
             await rpgen4.midiScheduler.play();
             scheduledToEnd(new Date(Date.now() + rpgen4.midiScheduler.scheduledTime + rpgen4.midiScheduler.duration).toTimeString());
         }).addClass('btn');
+    }
+    let loadSelectPrograms = null;
+    {
+        const {html} = addHideArea('Program Change');
+        const {instrumentList, drumSetList} = await rpgen4.fetchRainbowSoundFont();
+        const lists = Array(0x10).fill(instrumentList.map(v => [v.Name, v.children.map(v => [v.Name, v])]));
+        lists[0x09] = drumSetList.map(v => [v.Name, v]);
+        const selectPrograms = [...Array(0x10).keys()].map(v => rpgen3.addGroupedSelect(html, {
+            label: `Ch.${v + 1}`,
+            list: lists[v]
+        }));
+        
+        loadSelectPrograms = () => {
+            const trackNameMap = new rpgen4.TrackNameMap(g_midi);
+            for (const [i, v] of selectPrograms.entries()) {
+                const str = [
+                    `Ch.${i + 1}`,
+                    trackNameMap.has(i) ? trackNameMap.get(i) : [],
+                ].flat().join(' ');
+
+                v.elm.parent().before().find('label').text(str);
+            }
+        };
     }
     const makeMessageArrays = () => {
         const midiNoteArray = rpgen4.MidiNote.makeArray(g_midi);
