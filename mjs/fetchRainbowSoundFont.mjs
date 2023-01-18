@@ -38,7 +38,7 @@ const parseListXML = listXML => {
 };
 
 export const fetchRainbowSoundFont = async () => {
-    const xml = await (await fetch('https://rpgen3.github.io/rainbowSoundFont/xml/RaInBow%20SoundFont%202017.xml')).text();
+    const xml = await (await fetch('https://rpgen3.github.io/rainbowSoundfont/xml/RaInBow%20SoundFont%202017.xml')).text();
 
     const instrumentListXML = xml.match(/<InstrumentList>(.|\n)+?<\/InstrumentList>/)[0];
     const drumSetListXML = xml.match(/<DrumSetList>(.|\n)+?<\/DrumSetList>/)[0];
