@@ -112,6 +112,7 @@
         }).addClass('btn');
     }
     let g_midi = null;
+    let g_midi_file_name = null;
     {
         const {html} = addHideArea('input MIDI file');
         const viewStatus = addLabeledText(html, {
@@ -124,10 +125,13 @@
         }).on('change', async ({target}) => {
             const file = target.files.item(0);
             viewStatus(file?.name);
-            loadSelectPrograms();
+            if (file?.name) {
+                g_midi_file_name = file.name;
+            }
         });
         MidiParser.parse(inputFile.get(0), v => {
             g_midi = v;
+            loadSelectPrograms();
         });
     }
     {
@@ -184,30 +188,39 @@
         rpgen3.addBtn(html, '演奏開始', async () => {
             await rpgen4.midiScheduler.play();
             scheduledToEnd(new Date(Date.now() + rpgen4.midiScheduler.scheduledTime + rpgen4.midiScheduler.duration).toTimeString());
+            programChangeAll();
         }).addClass('btn');
     }
     let loadSelectPrograms = null;
+    let programChangeAll = null;
     {
         const {html} = addHideArea('Program Change');
+        $(html).text('とくにありません');
         const {instrumentList, drumSetList} = await rpgen4.fetchRainbowSoundFont();
         const lists = Array(0x10).fill(instrumentList.map(v => [v.Name, v.children.map(v => [v.Name, v])]));
-        lists[0x09] = drumSetList.map(v => [v.Name, v]);
-        const selectPrograms = [...Array(0x10).keys()].map(v => rpgen3.addGroupedSelect(html, {
-            label: `Ch.${v + 1}`,
-            list: lists[v]
-        }));
-        
+        lists[0x09] = [['ドラム', drumSetList.map(v => [v.Name, v])]];
+        let selectPrograms = null;
         loadSelectPrograms = () => {
+            html.empty();
             const trackNameMap = new rpgen4.TrackNameMap(g_midi);
-            for (const [i, v] of selectPrograms.entries()) {
-                const str = [
-                    `Ch.${i + 1}`,
-                    trackNameMap.has(i) ? trackNameMap.get(i) : [],
-                ].flat().join(' ');
-
-                v.elm.parent().before().find('label').text(str);
+            selectPrograms = [...Array(0x10).keys()].map(i => rpgen3.addGroupedSelect(html, {
+                prefix: g_midi_file_name,
+                label: [`Ch.${i + 1}`, trackNameMap.get(i)].filter(v => v).join(' '),
+                list: lists[i]
+            }));
+            for (const [channel, selectProgram] of selectPrograms.entries()) {
+                selectProgram.elm.on('change', () => {
+                    programChange(channel);
+                });
             }
         };
+        const programChange = channel => {
+            const {PC, LSB, MSB} = selectPrograms[channel]();
+            controlChange({data: {channel, control: 0x00, value: MSB}});
+            controlChange({data: {channel, control: 0x20, value: LSB}});
+            programChange({data: {channel, program: PC}});
+        };
+        programChangeAll = () => selectPrograms.forEach((_, i) => programChange(i));
     }
     const makeMessageArrays = () => {
         const midiNoteArray = rpgen4.MidiNote.makeArray(g_midi);
