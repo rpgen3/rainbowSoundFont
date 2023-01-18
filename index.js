@@ -206,7 +206,8 @@
             selectPrograms = [...Array(0x10).keys()].map(i => rpgen3.addGroupedSelect(html, {
                 prefix: g_midi_file_name,
                 label: [`Ch.${i + 1}`, trackNameMap.get(i)].filter(v => v).join(' '),
-                list: lists[i]
+                list: lists[i],
+                save: true
             }));
             for (const [channel, selectProgram] of selectPrograms.entries()) {
                 selectProgram.elm.on('change', () => {
