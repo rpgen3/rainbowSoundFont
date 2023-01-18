@@ -24,7 +24,7 @@
     const rpgen4 = await importAll([
         'https://rpgen3.github.io/maze/mjs/heap/Heap.mjs',
         'https://rpgen3.github.io/nsx39/mjs/midiOutput/MidiOutput.mjs',
-        'https://rpgen3.github.io/rainbowSoundFont/mjs/fetchRainbowSoundFont.mjs',
+        'https://rpgen3.github.io/rainbowSoundfont/mjs/fetchRainbowSoundFont.mjs',
         [
             'MidiNote',
             'MidiNoteMessage',
