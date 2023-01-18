@@ -216,9 +216,9 @@
         };
         const programChange = channel => {
             const {PC, LSB, MSB} = selectPrograms[channel]();
-            controlChange({data: {channel, control: 0x00, value: MSB}});
-            controlChange({data: {channel, control: 0x20, value: LSB}});
-            programChange({data: {channel, program: PC}});
+            rpgen4.midiScheduler.midiOutput.controlChange({data: {channel, control: 0x00, value: MSB}});
+            rpgen4.midiScheduler.midiOutput.controlChange({data: {channel, control: 0x20, value: LSB}});
+            rpgen4.midiScheduler.midiOutput.programChange({data: {channel, program: PC}});
         };
         programChangeAll = () => selectPrograms.forEach((_, i) => programChange(i));
     }
