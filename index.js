@@ -63,7 +63,6 @@
         const content = $('<span>').appendTo(holder).text(value);
         return value => content.text(value);
     };
-    let selectMidiChannel = null;
     {
         const {html} = addHideArea('init');
         const viewStatus = addLabeledText(html, {
@@ -74,7 +73,6 @@
             try {
                 const midiOutputs = await rpgen4.MidiOutput.fetchMidiOutputs();
                 selectMidiOutput.update([...midiOutputs].map(([_, v]) => [v.name, v]));
-                selectMidiOutput.elm.trigger('change');
                 viewStatus('接続成功');
             } catch (err) {
                 console.error(err);
@@ -87,7 +85,7 @@
         selectMidiOutput.elm.on('change', () => {
             rpgen4.midiScheduler.midiOutput = new rpgen4.MidiOutput(selectMidiOutput());
         });
-        selectMidiChannel = rpgen3.addSelect(html, {
+        const selectMidiChannel = rpgen3.addSelect(html, {
             label: '出力先のチャンネルを選択',
             save: true,
             list: [
@@ -226,39 +224,9 @@
     }
     const makeMessageArrays = () => {
         const midiNoteArray = rpgen4.MidiNote.makeArray(g_midi);
-        const mergedMidiNoteArray = mergeChannels(midiNoteArray, selectMidiChannel());
         return {
-            midiNotes: rpgen4.MidiNoteMessage.makeArray(mergedMidiNoteArray),
+            midiNotes: rpgen4.MidiNoteMessage.makeArray(midiNoteArray),
             tempos: rpgen4.MidiTempoMessage.makeArray(g_midi)
         };
-    };
-    const dramChannel = 0x9;
-    const mergeChannels = (midiNoteArray, channel) => {
-        if (channel === null) {
-            return midiNoteArray;
-        }
-        const now = new Map;
-        return midiNoteArray.map(midiNote => {
-            if (midiNote.channel === dramChannel) {
-                return midiNote;
-            } else if (now.has(midiNote.pitch)) {
-                const lastMidiNote = now.get(midiNote.pitch);
-                if (lastMidiNote.start === midiNote.start) {
-                    lastMidiNote.end = Math.max(lastMidiNote.end, midiNote.end);
-                    return null;
-                } else if (lastMidiNote.end > midiNote.start) {
-                    lastMidiNote.end = midiNote.start;
-                }
-                now.set(midiNote.pitch, midiNote);
-                return midiNote;
-            } else {
-                return midiNote;
-            }
-        }).filter(v => v).map(v => {
-            if (v.channel !== dramChannel) {
-                v.channel = channel;
-            }
-            return v;
-        });
     };
 })();
