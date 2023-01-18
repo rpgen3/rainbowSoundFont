@@ -6,13 +6,30 @@ class Node {
 
 const endOf = array => array[array.length - 1];
 const parseAttributes = str => str.match(/[^ ]+=".+?"/g)?.map(v => v.split('=')).map(([a, b]) => [a, b.slice(1, -1)]);
+const castAttributes = (() => {
+    const castingTargets = new Set([
+        'PC',
+        'MSB',
+        'LSB',
+    ]);
+    return attributes => {
+        for (const k in attributes) {
+            if (castingTargets.has(k)) {
+                attributes[k] = Number(attributes[k]);
+            }
+        }
+    };
+})();
 
 const parseListXML = listXML => {
     const stack = [new Node];
     listXML.split('\n').map(v => v.match(/<.+?>/)[0]).forEach(v => {
         const attributes = Object.fromEntries(parseAttributes(v) || []);
+        castAttributes(attributes);
+
         const isClosed = v.slice(-2) === '/>';
         const tag = v.replace(/ .*$/g, '');
+        
         switch (tag) {
             case '<Map':
                 const node = Object.assign(new Node, attributes);
